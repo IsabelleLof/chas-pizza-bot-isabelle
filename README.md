@@ -1,3 +1,6 @@
+<img width="1440" alt="Skärmavbild 2023-11-20 kl  02 52 56" src="https://github.com/IsabelleLof/chas-pizza-bot-isabelle/assets/104595550/e636ad07-2eef-4f23-bca2-b9fe433281ca">
+
+
 Today's assignment is to practices some parts of JavaScript you've learnt so far to create a little text-based bot which you can use to order pizza on your computer.
 
 How to complete this assignment
